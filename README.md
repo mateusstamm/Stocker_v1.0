@@ -1,16 +1,15 @@
 # Stocker_v1.0
-Sistema gerenciador de estoque de uma loja de informática
+Sistema controlador de registro de produtos de uma loja de informática
 
 ## Funcionalidades
 
-- Registro e login na página inicial;
-- Gestão de usuários de acesso;
-- Cadastro, edição e exclusão de produtos;
-- Manipulação de clientes (fornecedores);
-- Controle do fluxo de entradas;
-- Controle do fluxo de saídas;
-- Filtro de pesquisa por campo/palavra-chave;
-- Emissão de relatório por consulta;
+- Possibilidade de registro na página inicial;
+- Funcionalidade de login para usuários já registrados;
+- Controle da entrada de produtos;
+- Controle de saída de produtos;
+- Possibilidade de edição de produtos;
 
-## Semana 1 - (13/09/22 - 20/09/22)
-Realizado estudo inicial e prática com o Windows Forms. Básico de momento, para entendimento e aplicação profunda, posteriormente.
+## Observações
+- Projeto de Programação Orientada a Objetos
+- Professor orientados Everton Coimbra de Araújo
+- Universidade Tecnológica Federal do Paraná
