@@ -1,0 +1,12 @@
+D:\GitHub\Stocker_v1.0\ProjStocker\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\GitHub\Stocker_v1.0\ProjStocker\Domain\bin\Debug\net6.0\Domain.dll
+D:\GitHub\Stocker_v1.0\ProjStocker\Domain\bin\Debug\net6.0\Domain.pdb
+D:\GitHub\Stocker_v1.0\ProjStocker\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\GitHub\Stocker_v1.0\ProjStocker\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Stocker_v1.0\ProjStocker\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\GitHub\Stocker_v1.0\ProjStocker\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\GitHub\Stocker_v1.0\ProjStocker\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\GitHub\Stocker_v1.0\ProjStocker\Domain\obj\Debug\net6.0\Domain.dll
+D:\GitHub\Stocker_v1.0\ProjStocker\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\GitHub\Stocker_v1.0\ProjStocker\Domain\obj\Debug\net6.0\Domain.pdb
+D:\GitHub\Stocker_v1.0\ProjStocker\Domain\obj\Debug\net6.0\ref\Domain.dll

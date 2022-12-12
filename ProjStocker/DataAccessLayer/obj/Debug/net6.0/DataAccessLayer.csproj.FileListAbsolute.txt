@@ -1,0 +1,15 @@
+D:\GitHub\Stocker_v1.0\ProjStocker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\GitHub\Stocker_v1.0\ProjStocker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Stocker_v1.0\ProjStocker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\GitHub\Stocker_v1.0\ProjStocker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+D:\GitHub\Stocker_v1.0\ProjStocker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\GitHub\Stocker_v1.0\ProjStocker\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+D:\GitHub\Stocker_v1.0\ProjStocker\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\GitHub\Stocker_v1.0\ProjStocker\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\GitHub\Stocker_v1.0\ProjStocker\DataAccessLayer\bin\Debug\net6.0\Domain.dll
+D:\GitHub\Stocker_v1.0\ProjStocker\DataAccessLayer\bin\Debug\net6.0\Domain.pdb
+D:\GitHub\Stocker_v1.0\ProjStocker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+D:\GitHub\Stocker_v1.0\ProjStocker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+D:\GitHub\Stocker_v1.0\ProjStocker\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+D:\GitHub\Stocker_v1.0\ProjStocker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+D:\GitHub\Stocker_v1.0\ProjStocker\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
